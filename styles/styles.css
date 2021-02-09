@@ -126,3 +126,6 @@ body {
 .project__title {
   line-height: 25px;
 }
+.duties {
+  list-style: inside;
+}
