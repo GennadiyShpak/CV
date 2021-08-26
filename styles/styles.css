@@ -132,3 +132,6 @@ body {
 .duties {
   list-style: inside;
 }
+.education__item {
+  margin-bottom: 10px;
+}
